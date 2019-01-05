@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Created on Samstag, 5. Januar 2019 at 15:20:42 GMT-->
+<AutoTRAX version="15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://active3d.com/XmlSchemas/Dex.xsd" designVersion="2" type="part" fullDescription="&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;&#xD;&#xA;&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;&#xD;&#xA; &lt;head&gt;&#xD;&#xA;  &lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;&lt;title&gt;&#xD;&#xA;  &lt;/title&gt;&#xD;&#xA;  &lt;style type=&quot;text/css&quot;&gt;&#xD;&#xA;   .cs2654AE3A{text-align:left;text-indent:0pt;margin:0pt 0pt 0pt 0pt}&#xD;&#xA;   .csC8F6D76{color:#000000;background-color:transparent;font-family:Calibri;font-size:11pt;font-weight:normal;font-style:normal;}&#xD;&#xA;  &lt;/style&gt;&#xD;&#xA; &lt;/head&gt;&#xD;&#xA; &lt;body&gt;&#xD;&#xA;  &lt;p class=&quot;cs2654AE3A&quot;&gt;&lt;span class=&quot;csC8F6D76&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&#xD;&#xA;&lt;/html&gt;&#xD;&#xA;" dataSheet="C1206" smt="true" symbolValue="C1206">
+    <design nextId="435" stateId="0e59f4c2562e42328fc947a2715c96ec" softwareVersion="unknown" saved="636822984427504331" revisionPrefix="1" revision="2">
+        <sheets>
+            <schematic id="7" name="Symbol">
+                <entities>
+                    <terminal id="42" type="point" pad="41" at="5.4,4.3" side="right" length="point" numberVisible="false" />
+                    <terminal id="44" type="point" pad="43" at="5.9,4.3" side="right" length="point" numberVisible="false" />
+                    <symbolValue text="C1206" at="5.75099,4.50000048" height="0.1" alignment="middleRight" stringAlignment="near" />
+                    <partId text="C" at="5.5375,4.50000048" height="0.1" alignment="middleLeft" stringAlignment="far" prefix="C" />
+                    <line penWidth="0.02" start="5.7,4.40000057" end="5.7,4.200001" />
+                    <line penWidth="0.02" start="5.59999943,4.40000057" end="5.59999943,4.200001" />
+                    <line start="5.39999962,4.3" end="5.59999943,4.3" />
+                    <line start="5.7,4.3" end="5.89999962,4.3" />
+                </entities>
+                <schematicSettings origin="5.20000029,3.7" showGrid="false" showPage="false" />
+            </schematic>
+        </sheets>
+        <pcb id="1" name="Footprint" autosizeBorder="true" ambientLightIntensity="0.1">
+            <panel twinCuts="false" addOuterVCuts="true" />
+            <layers showSolderMaskIn3D="false" currentLayer="5">
+                <layer name="Documentation" plot="false" electrical="false" />
+                <layer name="Top Package" visible="false" plot="false" electrical="false" />
+                <layer name="Top Silkscreen" electrical="false" color="255,255,255" fixedColor="true" />
+                <layer name="Top Paste" visible="false" plot="false" electrical="false" color="128,128,128" fixedColor="true" />
+                <layer name="Top Copper" routeVerical="true" color="0,0,255" fixedColor="true" />
+                <layer name="Bottom Copper" color="255,0,0" fixedColor="true" />
+                <layer name="Bottom Paste" visible="false" plot="false" electrical="false" color="128,128,128" fixedColor="true" />
+                <layer name="Bottom Silkscreen" electrical="false" color="255,255,255" fixedColor="true" />
+                <layer name="Bottom Package" visible="false" plot="false" electrical="false" />
+                <layer name="Background" plot="false" electrical="false" />
+            </layers>
+            <pcbSettings origin="4.5,3.25" showGrid="false" autoPositionFootprintReference="false" autoPositionFootprintValue="false" threeDCopper="false" copperThickness="0.0056" showPadNames="true" hatchBorderWidth="0.00500000035" />
+            <entities>
+                <pcbBorder type="rectangle" x="-0.155118108" y="-0.159055114" width="0.4204724" height="0.393517" thickness="0.05" color="0,95,192" maskColor="64,255,255,255" penColor="255,255,255" />
+                <chipFootprint id="28" name="C1206" padSize="0.0629921257,0.07086614" courtyardExcess="0.01968504" silkscreenExcess="0.01968504" pitch="0.11023622" bodySize="0.11811024,0.0629921257,0.0629921257" capWidth="0.00984252">
+                    <entities>
+                        <pad id="41" name="+" type="rectangle" layer="4" size="0.0629921257,0.07086614" at="0,0" />
+                        <pad id="43" name="-" type="rectangle" layer="4" size="0.0629921257,0.07086614" at="0.11023622,0" />
+                        <courtyard x="-0.0511811" y="-0.0551181063" width="0.212598413" height="0.110236213" />
+                        <silkscreen layer="2" lockedToCourtyard="false" x="-0.0511811" y="-0.0551181063" width="0.212598413" height="0.110236213" />
+                        <placementPoint location="0.0551181,0" />
+                        <footprintId layer="2" text="C" at="-0.0511811,0.08511811" height="0.05" alignment="topRight" prefix="C" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="64,64,64" x="-0.00393700972" y="-0.0314960629" width="0.11811024" height="0.0629921257" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="-0.00393700833" y="-0.0314960629" width="0.00984252" height="0.0629921257" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="0.104330711" y="-0.0314960629" width="0.00984252" height="0.0629921257" />
+                        <footprintValue layer="1" brushColor="255,255,255" text="C1206" at="0.05511811,0" height="0.00246063014" extrusionBase="0.0625" extrusionHeight="0.0003937008" displayIn3D="true" />
+                    </entities>
+                </chipFootprint>
+            </entities>
+        </pcb>
+    </design>
+</AutoTRAX>

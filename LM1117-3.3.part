@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Created on Samstag, 5. Januar 2019 at 15:20:38 GMT-->
+<AutoTRAX version="15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://active3d.com/XmlSchemas/Dex.xsd" designVersion="2" type="part" fullDescription="&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;&#xD;&#xA;&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;&#xD;&#xA; &lt;head&gt;&#xD;&#xA;  &lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;&lt;title&gt;&#xD;&#xA;  &lt;/title&gt;&#xD;&#xA;  &lt;style type=&quot;text/css&quot;&gt;&#xD;&#xA;   .cs2654AE3A{text-align:left;text-indent:0pt;margin:0pt 0pt 0pt 0pt}&#xD;&#xA;   .csC8F6D76{color:#000000;background-color:transparent;font-family:Calibri;font-size:11pt;font-weight:normal;font-style:normal;}&#xD;&#xA;  &lt;/style&gt;&#xD;&#xA; &lt;/head&gt;&#xD;&#xA; &lt;body&gt;&#xD;&#xA;  &lt;p class=&quot;cs2654AE3A&quot;&gt;&lt;span class=&quot;csC8F6D76&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&#xD;&#xA;&lt;/html&gt;&#xD;&#xA;" smt="true" symbolValue="LM1117-3.3">
+    <design nextId="709" stateId="2eabbd86458746fe9b6a9c82b49ed6d2" softwareVersion="unknown" saved="636822984380748290" revisionPrefix="1" revision="1">
+        <sheets>
+            <schematic id="2" name="Symbol">
+                <entities>
+                    <terminalMagnet penWidth="0.02" lineJoin="miter" brushColor="255,255,176" x="5.20000029" y="4.00000048" width="0.7" height="0.499999523" />
+                    <terminal id="5" type="line" pad="4" at="5.20000029,4.4" name="Vin" length="long" />
+                    <terminal id="7" type="line" pad="6" at="5.9,4.10000038" side="right" name="+3.3V@1" length="long" />
+                    <terminal id="9" type="line" pad="8" at="5.20000029,4.10000038" name="GND" length="long" />
+                    <terminal id="11" type="line" pad="10" at="5.9,4.4" side="right" name="+3.3V@2" length="long" />
+                    <symbolValue text="LM1117-3.3" at="5.55,3.9015007" height="0.1" />
+                    <partId text="U" at="5.55,4.59853172" height="0.1" prefix="U" />
+                </entities>
+                <schematicSettings origin="5.20000029,3.7" showGrid="false" showPage="false" />
+            </schematic>
+        </sheets>
+        <pcb id="1" name="Footprint" autosizeBorder="true" ambientLightIntensity="0.1">
+            <panel twinCuts="false" addOuterVCuts="true" />
+            <layers showSolderMaskIn3D="false" currentLayer="6">
+                <layer name="Documentation" plot="false" electrical="false" />
+                <layer name="Top Package" plot="false" electrical="false" />
+                <layer name="Top Silkscreen" electrical="false" color="255,255,255" fixedColor="true" />
+                <layer name="Top Paste" visible="false" plot="false" electrical="false" color="128,128,128" fixedColor="true" />
+                <layer name="Top Copper" routeVerical="true" color="255,0,0" fixedColor="true" />
+                <layer name="Bottom Copper" color="0,0,255" fixedColor="true" />
+                <layer name="Bottom Paste" visible="false" plot="false" color="128,128,128" fixedColor="true" />
+                <layer name="Bottom Silkscreen" electrical="false" color="255,255,255" fixedColor="true" />
+                <layer name="Bottom Package" visible="false" plot="false" electrical="false" color="255,255,255" fixedColor="true" />
+                <layer name="Background" plot="false" electrical="false" />
+            </layers>
+            <pcbSettings origin="4.5,3.25" showGrid="false" autoPositionFootprintReference="false" autoPositionFootprintValue="false" threeDCopper="false" copperThickness="0.0056" showPadNames="true" hatchBorderWidth="0.00500000035" />
+            <entities>
+                <pcbBorder type="rectangle" x="-0.288976371" y="-0.3047244" width="0.577952743" height="0.68404305" thickness="0.05" color="0,95,192" maskColor="64,255,255,255" penColor="255,255,255" />
+                <SOT223Footprint id="3" name="LM1117-3.3" padSize="0.08661418,0.047244098" roundPads="true" courtyardExcess="0.01968504" silkscreenExcess="0.01968504">
+                    <entities>
+                        <pad id="4" name="1" type="rectangle" layer="4" size="0.08661418,0.047244098" at="-0.122047238,-0.0905511752" />
+                        <pad id="6" name="2" type="rectangle" layer="4" size="0.08661418,0.047244098" at="-0.122047238,0" />
+                        <pad id="8" name="3" type="rectangle" layer="4" size="0.08661418,0.047244098" at="-0.122047238,0.0905511752" />
+                        <pad id="10" name="4" type="rectangle" layer="4" size="0.08661418,0.133858278" at="0.122047238,0" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="-0.1566929" y="-0.109448813" width="0.07795276" height="0.03779528" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="128,128,128" x="-0.09074015" y="-0.109448813" width="0.008" height="0.03779528" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="-0.1566929" y="-0.01889764" width="0.07795276" height="0.03779528" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="128,128,128" x="-0.09074015" y="-0.01889764" width="0.008" height="0.03779528" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="-0.1566929" y="0.07165354" width="0.07795276" height="0.03779528" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="128,128,128" x="-0.09074015" y="0.07165354" width="0.008" height="0.03779528" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="0.07874015" y="-0.05905512" width="0.07795276" height="0.11811024" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="128,128,128" x="0.08274015" y="-0.05905512" width="0.008" height="0.11811024" />
+                        <silkscreen layer="2" lockedToCourtyard="false" x="-0.185039371" y="-0.2007874" width="0.370078743" height="0.4015748" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="64,64,64" x="-0.07874015" y="-0.18110235" width="0.1574803" height="0.3622047" />
+                        <courtyard x="-0.185039371" y="-0.2007874" width="0.370078743" height="0.4015748" />
+                        <placementPoint location="0,0" />
+                        <footprintId layer="2" text="U" at="-0.185039371,0.2307874" height="0.05" alignment="topRight" prefix="U" />
+                        <footprintValue layer="1" m11="7.54978942E-08" m12="0.99999994" m21="-0.99999994" m22="7.54978942E-08" brushColor="255,255,255" text="LM1117-3.3" at="0,0" height="0.00393700739" extrusionBase="0.07795275" extrusionHeight="0.0003937008" displayIn3D="true" />
+                    </entities>
+                </SOT223Footprint>
+            </entities>
+        </pcb>
+    </design>
+</AutoTRAX>

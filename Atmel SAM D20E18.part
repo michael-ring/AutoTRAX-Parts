@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Created on Samstag, 5. Januar 2019 at 16:38:03 GMT-->
+<AutoTRAX version="15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://active3d.com/XmlSchemas/Dex.xsd" designVersion="2" type="part" fullDescription="&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;&#xD;&#xA;&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;&#xD;&#xA; &lt;head&gt;&#xD;&#xA;  &lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;&lt;title&gt;&#xD;&#xA;  &lt;/title&gt;&#xD;&#xA;  &lt;style type=&quot;text/css&quot;&gt;&#xD;&#xA;   .cs2654AE3A{text-align:left;text-indent:0pt;margin:0pt 0pt 0pt 0pt}&#xD;&#xA;   .csC8F6D76{color:#000000;background-color:transparent;font-family:Calibri;font-size:11pt;font-weight:normal;font-style:normal;}&#xD;&#xA;  &lt;/style&gt;&#xD;&#xA; &lt;/head&gt;&#xD;&#xA; &lt;body&gt;&#xD;&#xA;  &lt;p class=&quot;cs2654AE3A&quot;&gt;&lt;span class=&quot;csC8F6D76&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&#xD;&#xA;&lt;/html&gt;&#xD;&#xA;" smt="true" symbolValue="Atmel SAM D20E18">
+    <design nextId="13474" stateId="3604fc8affe84234b64758f69dfce951" softwareVersion="Version 2019.1.02" saved="636823030834853531" revisionPrefix="1" revision="5">
+        <sheets>
+            <schematic id="7" name="Symbol">
+                <entities>
+                    <terminalMagnet penWidth="0.02" lineJoin="miter" brushColor="255,255,176" x="5.1" y="3.60000014" width="1.30000019" height="1.3" />
+                    <terminal id="7456" type="line" pad="12962" at="5.1,4.60000038" name="PA0" length="long" />
+                    <terminal id="7458" type="line" pad="12964" at="5.1,4.50000048" name="PA1" length="long" />
+                    <terminal id="7460" type="line" pad="12966" at="5.1,4.40000057" name="PA2" length="long" />
+                    <terminal id="7462" type="line" pad="12968" at="5.1,4.30000067" name="PA3" length="long" />
+                    <terminal id="7464" type="line" pad="12970" at="5.1,4.200001" name="PA4" length="long" />
+                    <terminal id="7466" type="line" pad="12972" at="5.1,4.100001" name="PA5" length="long" />
+                    <terminal id="7468" type="line" pad="12974" at="5.1,4.000001" name="PA6" length="long" />
+                    <terminal id="7470" type="line" pad="12976" at="5.1,3.900001" name="PA7" length="long" />
+                    <terminal id="7504" type="line" pad="13010" at="6.4,4.60000038" side="right" name="PA25" length="long" />
+                    <terminal id="7506" type="line" pad="13012" at="6.4,4.50000048" side="right" name="PA24" length="long" />
+                    <terminal id="7508" type="line" pad="13014" at="6.4,4.40000057" side="right" name="PA23" length="long" />
+                    <terminal id="7510" type="line" pad="13016" at="6.4,4.30000067" side="right" name="PA22" length="long" />
+                    <terminal id="7512" type="line" pad="13018" at="6.4,4.200001" side="right" name="PA19" length="long" />
+                    <terminal id="7514" type="line" pad="13020" at="6.4,4.100001" side="right" name="PA18" length="long" />
+                    <terminal id="7516" type="line" pad="13022" at="6.4,4.000001" side="right" name="PA17" length="long" />
+                    <terminal id="7518" type="line" pad="13024" at="6.4,3.900001" side="right" name="PA16" length="long" />
+                    <terminal id="7488" type="line" pad="12994" at="5.4,4.9" side="top" name="PA31" length="long" />
+                    <terminal id="7490" type="line" pad="12996" at="5.5,4.9" side="top" name="PA30" length="long" />
+                    <terminal id="7492" type="line" pad="12998" at="5.6,4.9" side="top" name="VddIn" length="long" />
+                    <terminal id="7494" type="line" pad="13000" at="5.7,4.9" side="top" name="VddCore" length="long" />
+                    <terminal id="7496" type="line" pad="13002" at="5.79999971,4.9" side="top" name="GND" length="long" />
+                    <terminal id="7498" type="line" pad="13004" at="5.89999962,4.9" side="top" name="PA28" length="long" />
+                    <terminal id="7500" type="line" pad="13006" at="5.99999952,4.9" side="top" name="!RESET" length="long" />
+                    <terminal id="7502" type="line" pad="13008" at="6.09999943,4.9" side="top" name="PA27" length="long" />
+                    <terminal id="7472" type="line" pad="12978" at="5.4,3.60000014" side="bottom" name="VddAna" length="long" />
+                    <terminal id="7474" type="line" pad="12980" at="5.5,3.60000014" side="bottom" name="GND" length="long" />
+                    <terminal id="7476" type="line" pad="12982" at="5.6,3.60000014" side="bottom" name="PA8" length="long" />
+                    <terminal id="7478" type="line" pad="12984" at="5.7,3.60000014" side="bottom" name="PA9" length="long" />
+                    <terminal id="7480" type="line" pad="12986" at="5.79999971,3.60000014" side="bottom" name="PA10" length="long" />
+                    <terminal id="7482" type="line" pad="12988" at="5.89999962,3.60000014" side="bottom" name="PA11" length="long" />
+                    <terminal id="7484" type="line" pad="12990" at="5.99999952,3.60000014" side="bottom" name="PA14" length="long" />
+                    <terminal id="7486" type="line" pad="12992" at="6.09999943,3.60000014" side="bottom" name="PA15" length="long" />
+                    <symbolValue text="Atmel SAM D20E18" at="6.87616539,3.46885514" height="0.1" />
+                    <partId text="U" at="6.27266026,5.00549841" height="0.1" prefix="U" />
+                </entities>
+                <schematicSettings origin="5.20000029,3.7" showGrid="false" showPage="false" snapsPerGrid="1" />
+            </schematic>
+        </sheets>
+        <pcb id="1" name="Footprint" autosizeBorder="true" ambientLightIntensity="0.1">
+            <panel twinCuts="false" addOuterVCuts="true" />
+            <layers showSolderMaskIn3D="false" currentLayer="5">
+                <layer name="Documentation" plot="false" electrical="false" />
+                <layer name="Top Package" visible="false" plot="false" electrical="false" />
+                <layer name="Top Silkscreen" electrical="false" color="255,255,255" fixedColor="true" />
+                <layer name="Top Paste" visible="false" plot="false" electrical="false" color="128,128,128" fixedColor="true" />
+                <layer name="Top Copper" routeVerical="true" color="0,0,255" fixedColor="true" />
+                <layer name="Bottom Copper" color="255,0,0" fixedColor="true" />
+                <layer name="Bottom Paste" visible="false" plot="false" electrical="false" color="128,128,128" fixedColor="true" />
+                <layer name="Bottom Silkscreen" electrical="false" color="255,255,255" fixedColor="true" />
+                <layer name="Bottom Package" visible="false" plot="false" electrical="false" />
+                <layer name="Background" plot="false" electrical="false" />
+            </layers>
+            <pcbSettings showGrid="false" autoPositionFootprintReference="false" autoPositionFootprintValue="false" threeDCopper="false" copperThickness="0.0056" showPadNames="true" hatchBorderWidth="0.00500000035" />
+            <entities>
+                <pcbBorder type="rectangle" x="-0.280421257" y="-0.27942127" width="0.5608425" height="0.6075561" thickness="0.0314960629" color="0,100,0" maskColor="64,255,255,255" penWidth="0" penColor="255,255,255" />
+                <qfpFootprint id="12961" name="Atmel SAM D20E18" padSize="0.0629921257,0.0118110245" courtyardExcess="0.01968504" silkscreenExcess="0.0100000007" arrangedTerminals="fourSided" packageDepth="0" pitch="0.01968504" rows="8" columns="8" outerWidth="0.257480323" outerHeight="0.257480323">
+                    <entities>
+                        <pad id="12962" name="1" type="rectangle" layer="4" size="0.0629921257,0.0118110245" at="-0.128740162,0.0688976347" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="-0.1444882" y="0.0644685" width="0.0472440943" height="0.008858268" />
+                        <pad id="12964" name="2" type="rectangle" layer="4" size="0.0629921257,0.0118110245" at="-0.128740162,0.0492125973" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="-0.1444882" y="0.04478346" width="0.0472440943" height="0.008858268" />
+                        <pad id="12966" name="3" type="rectangle" layer="4" size="0.0629921257,0.0118110245" at="-0.128740162,0.029527558" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="-0.1444882" y="0.0250984244" width="0.0472440943" height="0.008858268" />
+                        <pad id="12968" name="4" type="rectangle" layer="4" size="0.0629921257,0.0118110245" at="-0.128740162,0.009842519" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="-0.1444882" y="0.00541338464" width="0.0472440943" height="0.008858268" />
+                        <pad id="12970" name="5" type="rectangle" layer="4" size="0.0629921257,0.0118110245" at="-0.128740162,-0.009842521" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="-0.1444882" y="-0.0142716542" width="0.0472440943" height="0.008858268" />
+                        <pad id="12972" name="6" type="rectangle" layer="4" size="0.0629921257,0.0118110245" at="-0.128740162,-0.02952756" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="-0.1444882" y="-0.0339566953" width="0.0472440943" height="0.008858268" />
+                        <pad id="12974" name="7" type="rectangle" layer="4" size="0.0629921257,0.0118110245" at="-0.128740162,-0.0492125973" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="-0.1444882" y="-0.0536417328" width="0.0472440943" height="0.008858268" />
+                        <pad id="12976" name="8" type="rectangle" layer="4" size="0.0629921257,0.0118110245" at="-0.128740162,-0.0688976347" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="-0.1444882" y="-0.07332677" width="0.0472440943" height="0.008858268" />
+                        <pad id="12978" name="9" type="rectangle" layer="4" size="0.0118110245,0.0629921257" at="-0.0688976347,-0.128740162" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="-0.07332677" y="-0.1444882" width="0.008858268" height="0.0472440943" />
+                        <pad id="12980" name="10" type="rectangle" layer="4" size="0.0118110245,0.0629921257" at="-0.0492125973,-0.128740162" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="-0.0536417328" y="-0.1444882" width="0.008858268" height="0.0472440943" />
+                        <pad id="12982" name="11" type="rectangle" layer="4" size="0.0118110245,0.0629921257" at="-0.029527558,-0.128740162" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="-0.03395669" y="-0.1444882" width="0.008858268" height="0.0472440943" />
+                        <pad id="12984" name="12" type="rectangle" layer="4" size="0.0118110245,0.0629921257" at="-0.009842519,-0.128740162" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="-0.0142716523" y="-0.1444882" width="0.008858268" height="0.0472440943" />
+                        <pad id="12986" name="13" type="rectangle" layer="4" size="0.0118110245,0.0629921257" at="0.009842521,-0.128740162" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="0.00541338651" y="-0.1444882" width="0.008858268" height="0.0472440943" />
+                        <pad id="12988" name="14" type="rectangle" layer="4" size="0.0118110245,0.0629921257" at="0.02952756,-0.128740162" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="0.0250984263" y="-0.1444882" width="0.008858268" height="0.0472440943" />
+                        <pad id="12990" name="15" type="rectangle" layer="4" size="0.0118110245,0.0629921257" at="0.0492125973,-0.128740162" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="0.04478346" y="-0.1444882" width="0.008858268" height="0.0472440943" />
+                        <pad id="12992" name="16" type="rectangle" layer="4" size="0.0118110245,0.0629921257" at="0.0688976347,-0.128740162" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="0.0644685" y="-0.1444882" width="0.008858268" height="0.0472440943" />
+                        <pad id="12994" name="32" type="rectangle" layer="4" size="0.0118110245,0.0629921257" at="-0.0688976347,0.128740162" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="-0.07332677" y="0.0972441" width="0.008858268" height="0.0472440943" />
+                        <pad id="12996" name="31" type="rectangle" layer="4" size="0.0118110245,0.0629921257" at="-0.0492125973,0.128740162" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="-0.0536417328" y="0.0972441" width="0.008858268" height="0.0472440943" />
+                        <pad id="12998" name="30" type="rectangle" layer="4" size="0.0118110245,0.0629921257" at="-0.029527558,0.128740162" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="-0.03395669" y="0.0972441" width="0.008858268" height="0.0472440943" />
+                        <pad id="13000" name="29" type="rectangle" layer="4" size="0.0118110245,0.0629921257" at="-0.009842519,0.128740162" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="-0.0142716523" y="0.0972441" width="0.008858268" height="0.0472440943" />
+                        <pad id="13002" name="28" type="rectangle" layer="4" size="0.0118110245,0.0629921257" at="0.009842521,0.128740162" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="0.00541338651" y="0.0972441" width="0.008858268" height="0.0472440943" />
+                        <pad id="13004" name="27" type="rectangle" layer="4" size="0.0118110245,0.0629921257" at="0.02952756,0.128740162" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="0.0250984263" y="0.0972441" width="0.008858268" height="0.0472440943" />
+                        <pad id="13006" name="26" type="rectangle" layer="4" size="0.0118110245,0.0629921257" at="0.0492125973,0.128740162" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="0.04478346" y="0.0972441" width="0.008858268" height="0.0472440943" />
+                        <pad id="13008" name="25" type="rectangle" layer="4" size="0.0118110245,0.0629921257" at="0.0688976347,0.128740162" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="0.0644685" y="0.0972441" width="0.008858268" height="0.0472440943" />
+                        <pad id="13010" name="24" type="rectangle" layer="4" size="0.0629921257,0.0118110245" at="0.128740162,0.0688976347" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="0.0972441" y="0.0644685" width="0.0472440943" height="0.008858268" />
+                        <pad id="13012" name="23" type="rectangle" layer="4" size="0.0629921257,0.0118110245" at="0.128740162,0.0492125973" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="0.0972441" y="0.04478346" width="0.0472440943" height="0.008858268" />
+                        <pad id="13014" name="22" type="rectangle" layer="4" size="0.0629921257,0.0118110245" at="0.128740162,0.029527558" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="0.0972441" y="0.0250984244" width="0.0472440943" height="0.008858268" />
+                        <pad id="13016" name="21" type="rectangle" layer="4" size="0.0629921257,0.0118110245" at="0.128740162,0.009842519" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="0.0972441" y="0.00541338464" width="0.0472440943" height="0.008858268" />
+                        <pad id="13018" name="20" type="rectangle" layer="4" size="0.0629921257,0.0118110245" at="0.128740162,-0.009842521" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="0.0972441" y="-0.0142716542" width="0.0472440943" height="0.008858268" />
+                        <pad id="13020" name="19" type="rectangle" layer="4" size="0.0629921257,0.0118110245" at="0.128740162,-0.02952756" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="0.0972441" y="-0.0339566953" width="0.0472440943" height="0.008858268" />
+                        <pad id="13022" name="18" type="rectangle" layer="4" size="0.0629921257,0.0118110245" at="0.128740162,-0.0492125973" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="0.0972441" y="-0.0536417328" width="0.0472440943" height="0.008858268" />
+                        <pad id="13024" name="17" type="rectangle" layer="4" size="0.0629921257,0.0118110245" at="0.128740162,-0.0688976347" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="200,200,200" x="0.0972441" y="-0.07332677" width="0.0472440943" height="0.008858268" />
+                        <courtyard x="-0.179921269" y="-0.179921269" width="0.359842539" height="0.359842539" />
+                        <silkscreen layer="2" lockedToCourtyard="false" x="-0.0872441" y="-0.0872441" width="0.1744882" height="0.1744882" />
+                        <placementPoint location="0,0" />
+                        <footprintId layer="2" text="U" at="-0.179921269,0.189921275" height="0.03937008" alignment="topRight" prefix="U" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="64,64,64" x="-0.103149608" y="-0.103149608" width="0.206299216" height="0.206299216" />
+                        <line layer="1" penWidth="0" penColor="255,255,255" start="-0.105118111,-0.105118111" end="-0.103149608,-0.103149608" />
+                        <line layer="1" penWidth="0" penColor="255,255,255" start="0.105118111,-0.105118111" end="0.103149608,-0.103149608" />
+                        <line layer="1" penWidth="0" penColor="255,255,255" start="-0.105118111,0.105118111" end="-0.103149608,0.103149608" />
+                        <line layer="1" penWidth="0" penColor="255,255,255" start="0.105118111,0.105118111" end="0.103149608,0.103149608" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="32,32,32" x="-0.105118111" y="-0.105118111" width="0.210236222" height="0.210236222" />
+                        <rectangle layer="1" penWidth="0" penColor="255,255,255" brushColor="64,64,64" x="-0.103149608" y="-0.103149608" width="0.206299216" height="0.206299216" />
+                        <line layer="1" penWidth="0" penColor="255,255,255" start="-0.105118111,-0.105118111" end="-0.103149608,-0.103149608" />
+                        <line layer="1" penWidth="0" penColor="255,255,255" start="0.105118111,-0.105118111" end="0.103149608,-0.103149608" />
+                        <line layer="1" penWidth="0" penColor="255,255,255" start="-0.105118111,0.105118111" end="-0.103149608,0.103149608" />
+                        <line layer="1" penWidth="0" penColor="255,255,255" start="0.105118111,0.105118111" end="0.103149608,0.103149608" />
+                        <ellipse layer="1" penWidth="0" penColor="0,255,255,255" brushColor="255,255,255" x="-0.0952755958" y="0.07952756" width="0.0157480314" height="0.0157480314" />
+                        <footprintValue layer="1" brushColor="255,255,255" text="Atmel SAM D20E18" at="0,0" height="0.012129846" extrusionBase="0.04330709" extrusionHeight="0.0003937008" displayIn3D="true" />
+                    </entities>
+                </qfpFootprint>
+            </entities>
+        </pcb>
+    </design>
+    <viewports windowIndex="1" location="-8,-8" size="2576,1576" tabbedView="true" activeTab="2" active3DViewport="1">
+        <viewport sheetId="7">
+            <view />
+        </viewport>
+        <viewport sheetId="1">
+            <view />
+        </viewport>
+        <viewport3D viewportMode="single">
+            <camera name="single" position="-0.4793479,-0.454991132,0.485450268" target="0,0.0243567824,0.00610236265" up="0.408248335,0.408248335,0.8164967" angle="0.9272952" near="0.4151275" far="1.24538243" perspective="true" />
+        </viewport3D>
+    </viewports>
+</AutoTRAX>

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Created on Samstag, 5. Januar 2019 at 16:05:06 GMT-->
+<AutoTRAX version="15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://active3d.com/XmlSchemas/Dex.xsd" designVersion="2" type="part" description="ABRACON - ASEMB-8.000MHZ-LY-T - MEMS OSC, 8MHZ, 3.2 X 2.5MM, LVCMOS&#xD;&#xA;&#xA;Source:  Datasheet " fullDescription="&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;&#xD;&#xA;&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;&#xD;&#xA; &lt;head&gt;&#xD;&#xA;  &lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;&lt;title&gt;&#xD;&#xA;  &lt;/title&gt;&#xD;&#xA;  &lt;style type=&quot;text/css&quot;&gt;&#xD;&#xA;   .cs2654AE3A{text-align:left;text-indent:0pt;margin:0pt 0pt 0pt 0pt}&#xD;&#xA;   .csC8F6D76{color:#000000;background-color:transparent;font-family:Calibri;font-size:11pt;font-weight:normal;font-style:normal;}&#xD;&#xA;  &lt;/style&gt;&#xD;&#xA; &lt;/head&gt;&#xD;&#xA; &lt;body&gt;&#xD;&#xA;  &lt;p class=&quot;cs2654AE3A&quot;&gt;&lt;span class=&quot;csC8F6D76&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&#xD;&#xA;&lt;/html&gt;&#xD;&#xA;" smt="true" symbolValue="ASEMB-8.000MHZ-LY-T">
+    <design nextId="123" stateId="281cb89581a04ebeb804a41a9af6333e" softwareVersion="Version 2019.1.02" saved="636823011066246819" revisionPrefix="1" revision="1">
+        <sheets>
+            <schematic id="7" name="G$1">
+                <entities>
+                    <rectangle penWidth="0.02" lineJoin="miter" brushColor="255,255,176" x="0.2" y="-0.2" width="0.799999535" height="0.3" />
+                    <partId text="Y" at="0.599999964,0.179745108" height="0.055" prefix="Y" />
+                    <symbolValue text="ASEMB-8.000MHZ-LY-T" at="0.599999964,-0.280639172" height="0.055" />
+                    <terminal id="8" type="line" pad="2" at="0.2,0" name="STANDBY" length="long" />
+                    <terminal id="9" type="line" pad="3" at="0.2,-0.1" name="GND" length="long" />
+                    <terminal id="10" type="line" pad="4" at="1,0" side="right" name="OUTPUT" length="long" />
+                    <terminal id="11" type="line" pad="5" at="1,-0.1" side="right" name="VDD" length="long" />
+                </entities>
+                <schematicSettings origin="5.20000029,3.7" showGrid="false" showPage="false" />
+            </schematic>
+        </sheets>
+        <pcb id="1" name="Footprint" autosizeBorder="true" ambientLightIntensity="0.1">
+            <panel twinCuts="false" addOuterVCuts="true" />
+            <layers showSolderMaskIn3D="false" currentLayer="4">
+                <layer name="Documentation" visible="false" plot="false" electrical="false" />
+                <layer name="Top Package" visible="false" plot="false" electrical="false" />
+                <layer name="Top Silkscreen" plot="false" electrical="false" color="255,255,255" fixedColor="true" />
+                <layer name="Top Paste" visible="false" plot="false" electrical="false" color="128,128,128" fixedColor="true" />
+                <layer name="Top Copper" plot="false" color="255,0,0" fixedColor="true" />
+                <layer name="Bottom Copper" plot="false" routeVerical="true" color="0,0,255" fixedColor="true" />
+                <layer name="Bottom Paste" visible="false" plot="false" electrical="false" color="128,128,128" fixedColor="true" />
+                <layer name="Bottom Silkscreen" plot="false" electrical="false" color="255,255,255" fixedColor="true" />
+                <layer name="Bottom Package" visible="false" plot="false" electrical="false" />
+                <layer name="Background" visible="false" plot="false" electrical="false" />
+            </layers>
+            <pcbSettings showGrid="false" threeDCopper="false" copperThickness="0.0056" showPadNames="true" hatchBorderWidth="0.00500000035" />
+            <entities>
+                <pcbBorder type="rectangle" x="-0.26189813" y="-0.197440937" width="0.518875" height="0.464079738" thickness="0.07874016" color="0,100,0" maskColor="64,255,255,255" penWidth="0" penColor="255,255,255" />
+                <pad id="2" name="1" type="rectangle" layer="4" size="0.03543307,0.03937008" at="-0.04133858,-0.0374015756" />
+                <pad id="3" name="2" type="rectangle" layer="4" size="0.03543307,0.03937008" at="0.04133858,-0.0374015756" />
+                <pad id="4" name="3" type="rectangle" layer="4" size="0.03543307,0.03937008" at="0.04133858,0.0374015756" />
+                <pad id="5" name="4" type="rectangle" layer="4" size="0.03543307,0.03937008" at="-0.04133858,0.0374015756" />
+                <footprintValue layer="1" brushColor="255,255,255" text="value" at="-0.00246062875,0.0024606362" height="0.1" />
+                <courtyard x="-0.09842519" y="-0.09350393" width="0.191929117" height="0.191929132" />
+                <footprintId layer="2" text="U" at="-0.09842519,0.1284252" height="0.03937008" alignment="topRight" prefix="U" />
+                <silkscreen layer="2" x="-0.09842519" y="-0.09350393" width="0.191929117" height="0.191929132" />
+                <placementPoint location="-0.00246062875,0.0024606362" />
+                <box layer="1" center="-0.004921261,0,0.01968504" size="0.147637784,0.157480314,0.03937008">
+                    <material color="255,255,255" reflectivePower="1" />
+                </box>
+            </entities>
+        </pcb>
+    </design>
+    <viewports windowIndex="1" location="-8,-8" size="2576,1576" tabbedView="true" activeTab="2" active3DViewport="1">
+        <viewport sheetId="7">
+            <view />
+        </viewport>
+        <viewport sheetId="1">
+            <view />
+        </viewport>
+        <viewport3D viewportMode="single">
+            <camera name="single" position="-0.3826359,-0.4718377,1.22385871" target="0,0.0321382731,-0.03937008" up="0.6615221,0.60578233,0.442059159" angle="0.7853982" near="1.07497323" far="1.75072944" perspective="true" />
+        </viewport3D>
+    </viewports>
+</AutoTRAX>

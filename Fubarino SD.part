@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Created on Samstag, 5. Januar 2019 at 15:53:45 GMT-->
+<AutoTRAX version="15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://active3d.com/XmlSchemas/Dex.xsd" designVersion="2" type="part" fullDescription="&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;&#xD;&#xA;&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;&#xD;&#xA; &lt;head&gt;&#xD;&#xA;  &lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;&lt;title&gt;&#xD;&#xA;  &lt;/title&gt;&#xD;&#xA;  &lt;style type=&quot;text/css&quot;&gt;&#xD;&#xA;   .cs2654AE3A{text-align:left;text-indent:0pt;margin:0pt 0pt 0pt 0pt}&#xD;&#xA;   .csC8F6D76{color:#000000;background-color:transparent;font-family:Calibri;font-size:11pt;font-weight:normal;font-style:normal;}&#xD;&#xA;  &lt;/style&gt;&#xD;&#xA; &lt;/head&gt;&#xD;&#xA; &lt;body&gt;&#xD;&#xA;  &lt;p class=&quot;cs2654AE3A&quot;&gt;&lt;span class=&quot;csC8F6D76&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&#xD;&#xA;&lt;/html&gt;&#xD;&#xA;" dataSheet="Fubarino SD" symbolValue="Fubarino SD">
+    <design nextId="4041" stateId="31b5782bceaf4669a6807e12c6dd65a5" softwareVersion="unknown" saved="636823004257263871" revisionPrefix="1" revision="1">
+        <sheets>
+            <schematic id="59" name="Symbol">
+                <entities>
+                    <terminalMagnet penWidth="0.02" lineJoin="miter" brushColor="255,255,176" x="5.20000029" y="2.8" width="1" height="2.90000033" />
+                    <terminal id="2974" type="line" pad="2973" at="5.20000029,5.59999847" name="Vout" length="long" />
+                    <terminal id="2976" type="line" pad="2975" at="5.20000029,5.49999857" name="GND" length="long" />
+                    <terminal id="2978" type="line" pad="2977" at="5.20000029,5.39999866" name="Vdd" length="long" />
+                    <terminal id="2980" type="line" pad="2979" at="5.20000029,5.29999876" name="RD8" length="long" />
+                    <terminal id="2982" type="line" pad="2981" at="5.20000029,5.199999" name="RD9" length="long" />
+                    <terminal id="2984" type="line" pad="2983" at="5.20000029,5.099999" name="RD10" length="long" />
+                    <terminal id="2986" type="line" pad="2985" at="5.20000029,4.999999" name="RD11" length="long" />
+                    <terminal id="2988" type="line" pad="2987" at="5.20000029,4.899999" name="RD0" length="long" />
+                    <terminal id="2990" type="line" pad="2989" at="5.20000029,4.799999" name="RC13" length="long" />
+                    <terminal id="2992" type="line" pad="2991" at="5.20000029,4.69999933" name="RC14" length="long" />
+                    <terminal id="2994" type="line" pad="2993" at="5.20000029,4.59999943" name="RD1" length="long" />
+                    <terminal id="2996" type="line" pad="2995" at="5.20000029,4.49999952" name="RD2" length="long" />
+                    <terminal id="2998" type="line" pad="2997" at="5.20000029,4.39999962" name="RD3" length="long" />
+                    <terminal id="3000" type="line" pad="2999" at="5.20000029,4.29999971" name="RD4" length="long" />
+                    <terminal id="3002" type="line" pad="3001" at="5.20000029,4.2" name="RD5" length="long" />
+                    <terminal id="3004" type="line" pad="3003" at="5.20000029,4.1" name="RD6" length="long" />
+                    <terminal id="3006" type="line" pad="3005" at="5.20000029,4" name="RD7" length="long" />
+                    <terminal id="3008" type="line" pad="3007" at="5.20000029,3.9" name="RF0" length="long" />
+                    <terminal id="3010" type="line" pad="3009" at="5.20000029,3.80000019" name="RF1" length="long" />
+                    <terminal id="3012" type="line" pad="3011" at="5.20000029,3.70000029" name="RE0" length="long" />
+                    <terminal id="3014" type="line" pad="3013" at="5.20000029,3.60000038" name="RE1" length="long" />
+                    <terminal id="3016" type="line" pad="3015" at="5.20000029,3.50000048" name="RE2" length="long" />
+                    <terminal id="3018" type="line" pad="3017" at="5.20000029,3.40000057" name="RE3" length="long" />
+                    <terminal id="3020" type="line" pad="3019" at="5.20000029,3.30000067" name="RE4" length="long" />
+                    <terminal id="3022" type="line" pad="3021" at="5.20000029,3.20000076" name="RE5" length="long" />
+                    <terminal id="3024" type="line" pad="3023" at="5.20000029,3.10000086" name="RE6" length="long" />
+                    <terminal id="3026" type="line" pad="3025" at="5.20000029,3.000001" name="RE7" length="long" />
+                    <terminal id="3028" type="line" pad="3027" at="5.20000029,2.900001" name="GND" length="long" />
+                    <terminal id="3084" type="line" pad="3083" at="6.20000029,5.60000038" side="right" name="Vin" length="long" />
+                    <terminal id="3082" type="line" pad="3081" at="6.20000029,5.50000048" side="right" name="GND" length="long" />
+                    <terminal id="3080" type="line" pad="3079" at="6.20000029,5.396369" side="right" name="Vdd" length="long" />
+                    <terminal id="3078" type="line" pad="3077" at="6.20000029,5.296369" side="right" name="RF5" length="long" />
+                    <terminal id="3076" type="line" pad="3075" at="6.20000029,5.196369" side="right" name="RF4" length="long" />
+                    <terminal id="3074" type="line" pad="3073" at="6.20000029,5.099999" side="right" name="RB15" length="long" />
+                    <terminal id="3072" type="line" pad="3071" at="6.20000029,4.999999" side="right" name="RB14" length="long" />
+                    <terminal id="3070" type="line" pad="3069" at="6.20000029,4.899999" side="right" name="RB13" length="long" />
+                    <terminal id="3068" type="line" pad="3067" at="6.20000029,4.799999" side="right" name="RB12" length="long" />
+                    <terminal id="3066" type="line" pad="3065" at="6.20000029,4.69999933" side="right" name="RB11" length="long" />
+                    <terminal id="3064" type="line" pad="3063" at="6.20000029,4.59999943" side="right" name="RB10" length="long" />
+                    <terminal id="3062" type="line" pad="3061" at="6.20000029,4.49637" side="right" name="RB9" length="long" />
+                    <terminal id="3060" type="line" pad="3059" at="6.20000029,4.39637" side="right" name="RB8" length="long" />
+                    <terminal id="3058" type="line" pad="3057" at="6.20000029,4.29637" side="right" name="RB6" length="long" />
+                    <terminal id="3056" type="line" pad="3055" at="6.20000029,4.19637" side="right" name="RB7" length="long" />
+                    <terminal id="3054" type="line" pad="3053" at="6.20000029,4.1" side="right" name="GND" length="long" />
+                    <terminal id="3052" type="line" pad="3051" at="6.20000029,3.99637032" side="right" name="Vdd" length="long" />
+                    <terminal id="3050" type="line" pad="3049" at="6.20000029,3.9" side="right" name="ˆMCLR" length="long" />
+                    <terminal id="3048" type="line" pad="3047" at="6.20000029,3.79637051" side="right" name="RB0" length="long" />
+                    <terminal id="3046" type="line" pad="3045" at="6.20000029,3.6963706" side="right" name="RB1" length="long" />
+                    <terminal id="3044" type="line" pad="3043" at="6.20000029,3.5963707" side="right" name="RB2" length="long" />
+                    <terminal id="3042" type="line" pad="3041" at="6.20000029,3.49637079" side="right" name="RB3" length="long" />
+                    <terminal id="3040" type="line" pad="3039" at="6.20000029,3.396371" side="right" name="RB4" length="long" />
+                    <terminal id="3038" type="line" pad="3037" at="6.20000029,3.296371" side="right" name="RG9" length="long" />
+                    <terminal id="3036" type="line" pad="3035" at="6.20000029,3.196371" side="right" name="RG8" length="long" />
+                    <terminal id="3034" type="line" pad="3033" at="6.20000029,3.09637117" side="right" name="RG7" length="long" />
+                    <terminal id="3032" type="line" pad="3031" at="6.20000029,2.99637127" side="right" name="RG6" length="long" />
+                    <terminal id="3030" type="line" pad="3029" at="6.20000029,2.900001" side="right" name="GND" length="long" />
+                    <symbolValue text="Fubarino SD" at="5.55,2.70065951" height="0.1" />
+                    <partId text="U" at="5.55,5.79853153" height="0.1" prefix="U" />
+                </entities>
+                <schematicSettings origin="5.20000029,3.7" showGrid="false" showPage="false" snapToGrid="false" />
+            </schematic>
+        </sheets>
+        <pcb id="1" name="Footprint" ambientLightIntensity="0.1">
+            <panel twinCuts="false" addOuterVCuts="true" />
+            <layers showSolderMaskIn3D="false" currentLayer="2">
+                <layer name="Documentation" plot="false" electrical="false" />
+                <layer name="Top Package" plot="false" electrical="false" />
+                <layer name="Top Silkscreen" electrical="false" color="255,255,255" fixedColor="true" />
+                <layer name="Top Paste" visible="false" plot="false" electrical="false" color="128,128,128" fixedColor="true" />
+                <layer name="Top Copper" routeVerical="true" color="0,0,255" fixedColor="true" />
+                <layer name="Bottom Copper" color="255,0,0" fixedColor="true" />
+                <layer name="Bottom Paste" visible="false" plot="false" electrical="false" color="128,128,128" fixedColor="true" />
+                <layer name="Bottom Silkscreen" electrical="false" color="255,255,255" fixedColor="true" />
+                <layer name="Bottom Package" visible="false" plot="false" electrical="false" />
+                <layer name="Background" plot="false" electrical="false" />
+            </layers>
+            <pcbSettings origin="4.5,3.25" showGrid="false" autoPositionFootprintReference="false" autoPositionFootprintValue="false" threeDCopper="false" copperThickness="0.0056" showPadNames="true" hatchBorderWidth="0.00500000035" />
+            <entities>
+                <pcbBorder type="rectangle" x="-0.0936220437" y="-2.85000014" width="1.19362211" height="2.99821615" thickness="0.05" color="0,95,192" maskColor="64,255,255,255" penColor="255,255,255" />
+                <headerFootprint id="452" name="Fubarino SD" padSize="0.05,0.05" roundPads="true" surfaceMount="false" holeDiameter="0.01" courtyardExcess="0.01968504" silkscreenExcess="0.01968504" pitch="1,0.1" rows="28" leadType="straight" female="true" bottom="0.027559055">
+                    <entities>
+                        <rectangle layer="1" penColor="255,255,255" brushColor="64,64,64" x="-0.0500000119" y="-2.80000019" width="1.1" height="2.9" />
+                        <pad id="3872" name="1" type="ellipse" layer="4" diameter="0.05" at="0,0" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="-0.0125" y="-0.01875" width="0.025" height="0.0375" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="0.9875" y="-0.01875" width="0.025" height="0.0375" />
+                        <pad id="3874" name="2" type="ellipse" layer="4" diameter="0.05" at="0,-0.1" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="-0.0125" y="-0.118750006" width="0.025" height="0.0375" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="0.9875" y="-0.118750006" width="0.025" height="0.0375" />
+                        <pad id="3876" name="3" type="ellipse" layer="4" diameter="0.05" at="0,-0.2" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="-0.0125" y="-0.21875" width="0.025" height="0.0375" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="0.9875" y="-0.21875" width="0.025" height="0.0375" />
+                        <pad id="3878" name="4" type="ellipse" layer="4" diameter="0.05" at="0,-0.3" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="-0.0125" y="-0.318750024" width="0.025" height="0.0375" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="0.9875" y="-0.318750024" width="0.025" height="0.0375" />
+                        <pad id="3880" name="5" type="ellipse" layer="4" diameter="0.05" at="0,-0.4" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="-0.0125" y="-0.418750018" width="0.025" height="0.0375" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="0.9875" y="-0.418750018" width="0.025" height="0.0375" />
+                        <pad id="3882" name="6" type="ellipse" layer="4" diameter="0.05" at="0,-0.5" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="-0.0125" y="-0.51875" width="0.025" height="0.0375" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="0.9875" y="-0.51875" width="0.025" height="0.0375" />
+                        <pad id="3884" name="7" type="ellipse" layer="4" diameter="0.05" at="0,-0.6" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="-0.0125" y="-0.618750036" width="0.025" height="0.0375" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="0.9875" y="-0.618750036" width="0.025" height="0.0375" />
+                        <pad id="3886" name="8" type="ellipse" layer="4" diameter="0.05" at="0,-0.700000048" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="-0.0125" y="-0.71875006" width="0.025" height="0.0375" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="0.9875" y="-0.71875006" width="0.025" height="0.0375" />
+                        <pad id="3888" name="9" type="ellipse" layer="4" diameter="0.05" at="0,-0.8000001" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="-0.0125" y="-0.8187501" width="0.025" height="0.0375" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="0.9875" y="-0.8187501" width="0.025" height="0.0375" />
+                        <pad id="3890" name="10" type="ellipse" layer="4" diameter="0.05" at="0,-0.9000001" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="-0.0125" y="-0.9187501" width="0.025" height="0.0375" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="0.9875" y="-0.9187501" width="0.025" height="0.0375" />
+                        <pad id="3892" name="11" type="ellipse" layer="4" diameter="0.05" at="0,-1.00000012" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="-0.0125" y="-1.01875007" width="0.025" height="0.0375" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="0.9875" y="-1.01875007" width="0.025" height="0.0375" />
+                        <pad id="3894" name="12" type="ellipse" layer="4" diameter="0.05" at="0,-1.10000014" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="-0.0125" y="-1.1187501" width="0.025" height="0.0375" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="0.9875" y="-1.1187501" width="0.025" height="0.0375" />
+                        <pad id="3896" name="13" type="ellipse" layer="4" diameter="0.05" at="0,-1.20000017" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="-0.0125" y="-1.21875012" width="0.025" height="0.0375" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="0.9875" y="-1.21875012" width="0.025" height="0.0375" />
+                        <pad id="3898" name="14" type="ellipse" layer="4" diameter="0.05" at="0,-1.30000019" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="-0.0125" y="-1.31875014" width="0.025" height="0.0375" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="0.9875" y="-1.31875014" width="0.025" height="0.0375" />
+                        <pad id="3900" name="15" type="ellipse" layer="4" diameter="0.05" at="0,-1.40000021" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="-0.0125" y="-1.41875017" width="0.025" height="0.0375" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="0.9875" y="-1.41875017" width="0.025" height="0.0375" />
+                        <pad id="3902" name="16" type="ellipse" layer="4" diameter="0.05" at="0,-1.50000024" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="-0.0125" y="-1.51875019" width="0.025" height="0.0375" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="0.9875" y="-1.51875019" width="0.025" height="0.0375" />
+                        <pad id="3904" name="17" type="ellipse" layer="4" diameter="0.05" at="0,-1.60000026" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="-0.0125" y="-1.61875021" width="0.025" height="0.0375" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="0.9875" y="-1.61875021" width="0.025" height="0.0375" />
+                        <pad id="3906" name="18" type="ellipse" layer="4" diameter="0.05" at="0,-1.70000029" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="-0.0125" y="-1.71875024" width="0.025" height="0.0375" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="0.9875" y="-1.71875024" width="0.025" height="0.0375" />
+                        <pad id="3908" name="19" type="ellipse" layer="4" diameter="0.05" at="0,-1.80000031" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="-0.0125" y="-1.81875026" width="0.025" height="0.0375" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="0.9875" y="-1.81875026" width="0.025" height="0.0375" />
+                        <pad id="3910" name="20" type="ellipse" layer="4" diameter="0.05" at="0,-1.90000033" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="-0.0125" y="-1.91875029" width="0.025" height="0.0375" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="0.9875" y="-1.91875029" width="0.025" height="0.0375" />
+                        <pad id="3912" name="21" type="ellipse" layer="4" diameter="0.05" at="0,-2.00000024" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="-0.0125" y="-2.01875019" width="0.025" height="0.0375" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="0.9875" y="-2.01875019" width="0.025" height="0.0375" />
+                        <pad id="3914" name="22" type="ellipse" layer="4" diameter="0.05" at="0,-2.10000014" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="-0.0125" y="-2.11875" width="0.025" height="0.0375" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="0.9875" y="-2.11875" width="0.025" height="0.0375" />
+                        <pad id="3916" name="23" type="ellipse" layer="4" diameter="0.05" at="0,-2.2" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="-0.0125" y="-2.21875" width="0.025" height="0.0375" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="0.9875" y="-2.21875" width="0.025" height="0.0375" />
+                        <pad id="3918" name="24" type="ellipse" layer="4" diameter="0.05" at="0,-2.3" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="-0.0125" y="-2.31875" width="0.025" height="0.0375" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="0.9875" y="-2.31875" width="0.025" height="0.0375" />
+                        <pad id="3920" name="25" type="ellipse" layer="4" diameter="0.05" at="0,-2.39999986" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="-0.0125" y="-2.41874981" width="0.025" height="0.0375" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="0.9875" y="-2.41874981" width="0.025" height="0.0375" />
+                        <pad id="3922" name="26" type="ellipse" layer="4" diameter="0.05" at="0,-2.49999976" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="-0.0125" y="-2.51874971" width="0.025" height="0.0375" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="0.9875" y="-2.51874971" width="0.025" height="0.0375" />
+                        <pad id="3924" name="27" type="ellipse" layer="4" diameter="0.05" at="0,-2.59999967" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="-0.0125" y="-2.61874962" width="0.025" height="0.0375" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="0.9875" y="-2.61874962" width="0.025" height="0.0375" />
+                        <pad id="3926" name="28" type="ellipse" layer="4" diameter="0.05" at="0,-2.69999957" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="-0.0125" y="-2.71874952" width="0.025" height="0.0375" />
+                        <rectangle layer="1" penColor="255,255,255" brushColor="200,200,200" x="0.9875" y="-2.71874952" width="0.025" height="0.0375" />
+                        <pad id="3928" name="56" type="ellipse" layer="4" diameter="0.05" at="1,0" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <pad id="3930" name="55" type="ellipse" layer="4" diameter="0.05" at="1,-0.1" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <pad id="3932" name="54" type="ellipse" layer="4" diameter="0.05" at="1,-0.2" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <pad id="3934" name="53" type="ellipse" layer="4" diameter="0.05" at="1,-0.3" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <pad id="3936" name="52" type="ellipse" layer="4" diameter="0.05" at="1,-0.4" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <pad id="3938" name="51" type="ellipse" layer="4" diameter="0.05" at="1,-0.5" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <pad id="3940" name="50" type="ellipse" layer="4" diameter="0.05" at="1,-0.6" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <pad id="3942" name="49" type="ellipse" layer="4" diameter="0.05" at="1,-0.700000048" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <pad id="3944" name="48" type="ellipse" layer="4" diameter="0.05" at="1,-0.8000001" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <pad id="3946" name="47" type="ellipse" layer="4" diameter="0.05" at="1,-0.9000001" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <pad id="3948" name="46" type="ellipse" layer="4" diameter="0.05" at="1,-1.00000012" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <pad id="3950" name="45" type="ellipse" layer="4" diameter="0.05" at="1,-1.10000014" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <pad id="3952" name="44" type="ellipse" layer="4" diameter="0.05" at="1,-1.20000017" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <pad id="3954" name="43" type="ellipse" layer="4" diameter="0.05" at="1,-1.30000019" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <pad id="3956" name="42" type="ellipse" layer="4" diameter="0.05" at="1,-1.40000021" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <pad id="3958" name="41" type="ellipse" layer="4" diameter="0.05" at="1,-1.50000024" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <pad id="3960" name="40" type="ellipse" layer="4" diameter="0.05" at="1,-1.60000026" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <pad id="3962" name="39" type="ellipse" layer="4" diameter="0.05" at="1,-1.70000029" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <pad id="3964" name="38" type="ellipse" layer="4" diameter="0.05" at="1,-1.80000031" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <pad id="3966" name="37" type="ellipse" layer="4" diameter="0.05" at="1,-1.90000033" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <pad id="3968" name="36" type="ellipse" layer="4" diameter="0.05" at="1,-2.00000024" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <pad id="3970" name="35" type="ellipse" layer="4" diameter="0.05" at="1,-2.10000014" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <pad id="3972" name="34" type="ellipse" layer="4" diameter="0.05" at="1,-2.2" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <pad id="3974" name="33" type="ellipse" layer="4" diameter="0.05" at="1,-2.3" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <pad id="3976" name="32" type="ellipse" layer="4" diameter="0.05" at="1,-2.39999986" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <pad id="3978" name="31" type="ellipse" layer="4" diameter="0.05" at="1,-2.49999976" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <pad id="3980" name="30" type="ellipse" layer="4" diameter="0.05" at="1,-2.59999967" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <pad id="3982" name="29" type="ellipse" layer="4" diameter="0.05" at="1,-2.69999957" holeDiameter="0.01" smt="false" autoGenerateSolderPaste="false" />
+                        <silkscreen layer="2" x="-0.07318505" y="-2.82318521" width="1.14637" height="2.94637012" />
+                        <courtyard x="-0.07318505" y="-2.82318521" width="1.14637" height="2.94637012" />
+                        <placementPoint location="0.49999994,-1.35000014" />
+                        <footprintId layer="2" text="U" at="-0.06968504,0.149685174" height="0.05" alignment="topRight" prefix="U" />
+                        <footprintValue layer="1" brushColor="255,255,255" text="" at="0.5,-1.35" height="0.055" showInPcb="false" />
+                    </entities>
+                </headerFootprint>
+            </entities>
+        </pcb>
+    </design>
+</AutoTRAX>
