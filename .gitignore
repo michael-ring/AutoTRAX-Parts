@@ -1,0 +1,4 @@
+# Ignore list for AutoTRAX, a PCB layout tool
+
+# Backup files
+*.Backup
